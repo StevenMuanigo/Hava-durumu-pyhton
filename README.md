@@ -32,7 +32,7 @@ Kod içinde aşağıdaki satırı kendi anahtarınızla değiştirin:
 
 api_key = 'YOUR_API_KEY'
 
-KOD:
+Kod:
 
 import requests
 import json
@@ -92,3 +92,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+KOD:
